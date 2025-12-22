@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/github/last-commit/google/guava?style=for-the-badge&logo=git&color=FE7D37&labelColor=1d1d1d" alt="Last Commit"/>
   <img src="https://img.shields.io/github/languages/top/google/guava?style=for-the-badge&logo=python&color=3776AB&labelColor=1d1d1d" alt="Top Language"/>
   <img src="https://img.shields.io/badge/Status-Operational-success?style=for-the-badge&logo=activitypub&labelColor=1d1d1d" alt="Status"/>
-  <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge&logo=open-source-initiative&labelColor=1d1d1d" alt="License"/>
 </div>
 
 <br/>
