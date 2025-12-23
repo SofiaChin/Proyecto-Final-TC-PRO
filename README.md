@@ -19,13 +19,75 @@
 
 <br/>
 
-<div align="center">
-  <p align="center">
-    <strong>AETHER CORE</strong> es un motor de orquestación de datos diseñado para visualizar flujos complejos mediante topografía 3D. 
-    Integra pipelines de CI/CD con renderizado WebGL nativo.
-  </p>
-  
   <img src="https://i.pinimg.com/originals/a4/09/44/a40944062eb800cb8d2c943015f69a66.gif" width="90%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3);"/>
 </div>
 
 ---
+ <details>
+<summary><strong>🗂️ Índice de Recursos y Código Fuente (Click para desplegar)</strong></summary>
+<br />
+
+Aquí encontrarás los archivos esenciales para replicar el análisis y la aplicación de MIT App Inventor.
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="left">Archivo</th>
+      <th align="left">Descripción del Contenido</th>
+      <th align="center">Formato</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="./ProyectoFinal_TCPro.pdf">
+          <strong>📄 Documentación Final</strong>
+        </a>
+      </td>
+      <td>
+        [cite_start]Reporte completo que incluye capturas de las pantallas (Home, Clean Data, Prediction), lógica de bloques y análisis de tendencias[cite: 1, 35, 107].
+      </td>
+      <td align="center"><code>.PDF</code></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="./topsongs.pdf">
+          <strong>📊 Dataset: Global Top Songs</strong>
+        </a>
+      </td>
+      <td>
+        Base de datos cruda utilizada para la regresión. [cite_start]Contiene Artistas, Año, Streams (Millones) y Rating de canciones desde 1991 hasta 2024[cite: 143].
+      </td>
+      <td align="center"><code>.PDF</code></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="./MusicTrendPredictor.aia">
+          <strong>📦 MusicTrendPredictor</strong>
+        </a>
+      </td>
+      <td>
+        Código fuente nativo del proyecto. [cite_start]Importable directamente en <a href="http://ai2.appinventor.mit.edu/">MIT App Inventor</a> para editar la lógica y el diseño[cite: 144, 150].
+      </td>
+      <td align="center"><code>.AIA</code></td>
+    </tr>
+  </tbody>
+</table>
+</details>
+
+---
+
+<div align="center">
+  <br>
+  <small>Proyecto Final: <strong>Music Trend Predictor App</strong></small>
+  <br>
+  <small>Realizado para el curso <strong>TC Pro - Introducción a Ciencia de Datos</strong></small>
+  <br>
+  <br>
+  
+  <p>
+    ༺ ♥ ༻
+  </p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=228bca&height=50&section=footer"/>
+</div>
