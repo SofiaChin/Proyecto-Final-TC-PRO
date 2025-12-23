@@ -45,7 +45,7 @@ Aquí encontrarás los archivos esenciales para replicar el análisis y la aplic
         </a>
       </td>
       <td>
-        [cite_start]Reporte completo que incluye capturas de las pantallas (Home, Clean Data, Prediction), lógica de bloques y análisis de tendencias[cite: 1, 35, 107].
+        Reporte completo que incluye capturas de las pantallas (Home, Clean Data, Prediction), lógica de bloques y análisis de tendencias.
       </td>
       <td align="center"><code>.PDF</code></td>
     </tr>
@@ -56,7 +56,7 @@ Aquí encontrarás los archivos esenciales para replicar el análisis y la aplic
         </a>
       </td>
       <td>
-        Base de datos cruda utilizada para la regresión. [cite_start]Contiene Artistas, Año, Streams (Millones) y Rating de canciones desde 1991 hasta 2024[cite: 143].
+        Base de datos cruda utilizada para la regresión. Contiene Artistas, Año, Streams (Millones) y Rating de canciones desde 1991 hasta 2024.
       </td>
       <td align="center"><code>.PDF</code></td>
     </tr>
@@ -67,7 +67,7 @@ Aquí encontrarás los archivos esenciales para replicar el análisis y la aplic
         </a>
       </td>
       <td>
-        Código fuente nativo del proyecto. [cite_start]Importable directamente en <a href="http://ai2.appinventor.mit.edu/">MIT App Inventor</a> para editar la lógica y el diseño[cite: 144, 150].
+        Código fuente nativo del proyecto. Importable directamente en <a href="http://ai2.appinventor.mit.edu/">MIT App Inventor</a> para editar la lógica y el diseño.
       </td>
       <td align="center"><code>.AIA</code></td>
     </tr>
