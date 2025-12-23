@@ -10,15 +10,19 @@
 
 <div align="center">
   <img src="https://img.shields.io/github/last-commit/google/guava?style=for-the-badge&logo=git&color=FE7D37&labelColor=1d1d1d" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/languages/top/google/guava?style=for-the-badge&logo=python&color=3776AB&labelColor=1d1d1d" alt="Top Language"/>
+  
+  <img src="https://img.shields.io/badge/Tool-MIT%20App%20Inventor-A4C639?style=for-the-badge&logo=android&logoColor=white&labelColor=1d1d1d" alt="MIT App Inventor"/>
+  
   <img src="https://img.shields.io/badge/Status-Operational-success?style=for-the-badge&logo=activitypub&labelColor=1d1d1d" alt="Status"/>
+  <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge&logo=open-source-initiative&labelColor=1d1d1d" alt="License"/>
 </div>
 
 <br/>
 
 <div align="center">
   <p align="center">
-    <strong>TEXTO: </strong> texto
+    <strong>AETHER CORE</strong> es un motor de orquestación de datos diseñado para visualizar flujos complejos mediante topografía 3D. 
+    Integra pipelines de CI/CD con renderizado WebGL nativo.
   </p>
   
   <img src="https://i.pinimg.com/originals/a4/09/44/a40944062eb800cb8d2c943015f69a66.gif" width="90%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3);"/>
