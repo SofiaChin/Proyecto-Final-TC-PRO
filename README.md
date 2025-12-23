@@ -27,7 +27,6 @@
 <summary><strong>🗂️ Índice de Recursos y Código Fuente (Click para desplegar)</strong></summary>
 <br />
 
-Aquí encontrarás los archivos esenciales para replicar el análisis y la aplicación de MIT App Inventor.
 
 <table align="center">
   <thead>
